@@ -3,7 +3,13 @@
   <entry>
     <title>article title</title>
     <url>/2019/12/22/article-title/</url>
-    <content><![CDATA[<h2 id="这是一个测试文档"><a href="#这是一个测试文档" class="headerlink" title="这是一个测试文档"></a>这是一个测试文档</h2>]]></content>
+    <content><![CDATA[<h2 id="这是一个测试文档"><a href="#这是一个测试文档" class="headerlink" title="这是一个测试文档"></a>这是一个测试文档</h2><h3 id="今天开始搭建该网站"><a href="#今天开始搭建该网站" class="headerlink" title="今天开始搭建该网站"></a>今天开始搭建该网站</h3>]]></content>
+      <categories>
+        <category>mytest</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
