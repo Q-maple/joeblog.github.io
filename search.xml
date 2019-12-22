@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>mytest</title>
+    <url>/2019/12/22/mytest/</url>
+    <content><![CDATA[<p>这是我的一个测试文件</p>
+]]></content>
+      <tags>
+        <tag>mytags</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>article title</title>
     <url>/2019/12/22/article-title/</url>
     <content><![CDATA[<h2 id="这是一个测试文档"><a href="#这是一个测试文档" class="headerlink" title="这是一个测试文档"></a>这是一个测试文档</h2><h3 id="今天开始搭建该网站"><a href="#今天开始搭建该网站" class="headerlink" title="今天开始搭建该网站"></a>今天开始搭建该网站</h3>]]></content>
